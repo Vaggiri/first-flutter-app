@@ -1,4 +1,4 @@
-# app2
+# Bluetooth chatting app
 
 A new Flutter project.
 
